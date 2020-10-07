@@ -1,0 +1,2 @@
+[0921/095924.775:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0921/095924.791:ERROR:exception_snapshot_win.cc(99)] thread ID 11448 not found in process
